@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "internet-menedzher",
+    "name": "Antikrizisnyj praktikum",
     "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
@@ -77,7 +77,7 @@
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/128x122.png",
     "robotsSwitcher": true,
-    "uniqCompNum": 46,
+    "uniqCompNum": 50,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "gdpr": {
@@ -479,7 +479,7 @@
       "settings": {
         "meta_descr": "Автор практикума: Максим Петров\nдолларовый миллионер | профессиональный инвестор | 15 лет практического опыта",
         "title": "Page 2",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/.jpeg"
       },
       "components": [
